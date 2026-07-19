@@ -60,9 +60,5 @@ Aspiring Data Analyst
 
 - LinkedIn: www.linkedin.com/in/mahmoud-noah
 - GitHub: https://github.com/mahmoud-noah-eg
-
-
-
-
 - LinkedIn: (ضع الرابط)
 - GitHub: https://github.com/mahmoud-noah-dev
