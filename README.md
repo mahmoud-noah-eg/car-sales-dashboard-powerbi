@@ -33,7 +33,7 @@ The dashboard incorporates multiple analytical perspectives to support data-driv
 * DAX: Utilized advanced DAX measures to calculate performance metrics and business KPIs.
 
 ## 🖼 Dashboard Preview
-![Car Sales Dashboard](Car Sales Dashboard _MN.png)
+![car-sales-dashboard-powerbi](Car%20Sales%20Dashboard%20_MN.png)
 
 ## 🚀 Skills Demonstrated
 
