@@ -33,7 +33,7 @@ The dashboard incorporates multiple analytical perspectives to support data-driv
 * DAX: Utilized advanced DAX measures to calculate performance metrics and business KPIs.
 
 ## 🖼 Dashboard Preview
-![Car Sales Dashboard](Car Sales Dashboard_MN.png)
+![Car Sales Dashboard](Car Sales Dashboard _MN.png)
 
 ## 🚀 Skills Demonstrated
 
@@ -60,5 +60,4 @@ Aspiring Data Analyst
 
 - LinkedIn: www.linkedin.com/in/mahmoud-noah
 - GitHub: https://github.com/mahmoud-noah-eg
-- LinkedIn: (ضع الرابط)
-- GitHub: https://github.com/mahmoud-noah-dev
+
